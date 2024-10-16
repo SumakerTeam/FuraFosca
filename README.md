@@ -1,8 +1,6 @@
 # FuraFosca
 Minisumo FuraFosca presentado en OSHWDem A Coruña 2024
 
-!FuraFosca
-
 ## Descripción
 FuraFosca es un robot minisumo diseñado para competir en la OSHWDem 2024 en A Coruña. Este proyecto combina ingeniería mecánica, electrónica y programación para crear un robot autónomo capaz de enfrentarse a otros en la arena de sumo.
 
