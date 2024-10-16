@@ -29,21 +29,13 @@ FuraFosca es un robot minisumo diseñado para competir en la OSHWDem 2024 en A C
     ```bash
     git clone https://github.com/SumakerTeam/FuraFosca.git
     ```
-2. Abre el proyecto en tu IDE preferido.
+2. Abre el proyecto en tu IDE arduino.
 3. Sube el código al microcontrolador ESP32 con ArduinoIDE.
 
 ## Uso
 1. Enciende el robot.
 2. Colócalo en la arena de sumo.
 3. Observa cómo FuraFosca detecta y empuja a su oponente fuera del ring.
-
-## Contribuciones
-¡Las contribuciones son bienvenidas! Si deseas contribuir, por favor sigue estos pasos:
-1. Haz un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
-3. Realiza tus cambios y haz commit (`git commit -m 'Añadir nueva funcionalidad'`).
-4. Sube tus cambios (`git push origin feature/nueva-funcionalidad`).
-5. Abre un Pull Request.
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
