@@ -7,7 +7,7 @@ FuraFosca es un robot minisumo diseñado para competir en la OSHWDem 2024 en A C
 ## Características
 - **Dimensiones:** 10x10 cm
 - **Peso:** 500 g
-- **Sensores:** Sensores de proximidad VL53L0X y línea QRE1113
+- **Sensores:** Sensores de proximidad y línea
 - **Actuadores:** Motores Brushless con reductora
 - **Controlador:** Microcontrolador ESP32
 
@@ -17,6 +17,7 @@ FuraFosca es un robot minisumo diseñado para competir en la OSHWDem 2024 en A C
 - Sensores de infrarrojos QRE1113
 - Sensores TOF VL53L0X
 - Motores brushless SURPASS HOBBY 2030 4500KV 
+- ESC Favourite BLHeli S LittleBee-Spring 30A
 - Reductora del Micromotor de engranaje, JGA20-180 DC 6V, 93rpm
 - Ruedas impresas en 3D con recubrimiento silicona
 - Batería LiPo Tattu 450 mAh 75C
